@@ -1,13 +1,12 @@
 Olá, me chamo Matheus! <br>
 Aqui você não vai ver mais do mesmo e nem projetos copia e cola do Youtube. É uma promessa!<br><br>
 
-Estou em transição de carreira; atualmente trabalho na construção civil como pedreiro,<br>
-mas em breve pretendo atuar como desenvolvedor Front-end. Programação sempre foi uma paixão e um hobby,<br>
-mas sempre achei que fosse algo fora da minha realidade; nunca tive ninguém próximo que fosse da área.<br>
-Atualmente, estudo na Alura e percebi que pode sim ser uma boa ideia usar minha paixão pela programação<br>
-como combustível para meus estudos e, quem sabe, conseguir uma vaga em breve.<br>
-Estou estudando com foco em JavaScript. no momento estou focado em criar uma base sólida em lógica de programação e JavaScript.<br>
-Estou aprendendo muito nos últimos dias e com certeza vou voltar aqui muitas vezes para atualizar meus conhecimentos para você!<br> Então volte sempre :)
+Estou em transição de carreira e tenho o objetivo de me tornar um desenvolvedor front-end!<br>
+A tecnologia sempre me fez brilhar os olhos, mas eu achava que era coisa de outro mundo.<br>
+Na contramão da galera que deseja entrar na área, eu preferi focar na lógica de programação<br>
+antes de me jogar em 3 ou 4 frameworks. Agora, tenho uma base sólida em HTML, CSS, SASS, JavaScript <br>
+e atualmente estou mergulhando de cabeça no mundo React. Eu amo tecnologia e estou pronto para encarar <br>
+qualquer desafio que aparecer no meu caminho! :)
 <br>
 
 <h3>Skills:</h3> 
