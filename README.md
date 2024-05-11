@@ -2,8 +2,7 @@ Olá, me chamo Matheus! <br>
 Aqui você não vai ver mais do mesmo e nem projetos copia e cola do Youtube. É uma promessa!<br><br>
 
 Estou em transição de carreira e tenho o objetivo de me tornar um desenvolvedor front-end!<br>
-A tecnologia sempre me fez brilhar os olhos, mas eu achava que era coisa de outro mundo.<br>
-Na contramão da galera que deseja entrar na área, eu preferi focar na lógica de programação<br>
+Na contramão da galera que deseja entrar na área, eu preferi focar na base<br>
 antes de me jogar em 3 ou 4 frameworks. Agora, tenho uma base sólida em HTML, CSS, SASS, JavaScript <br>
 e atualmente estou mergulhando de cabeça no mundo React. Eu amo tecnologia e estou pronto para encarar <br>
 qualquer desafio que aparecer no meu caminho! :)
