@@ -2,7 +2,7 @@ Olá, me chamo Matheus! <br>
 Aqui você não vai ver mais do mesmo e nem projetos copia e cola do Youtube. É uma promessa!<br><br>
 
 Sou desenvolvedor Front-end com experiência em projetos reais e trabalho como freelancer. <br>
-Utilizo principalmente HTML, SASS e JavaScript, e estou me aprofundando em React para me tornar um especialista. <br>
+Programo com foco em JavaScript, e estou me aprofundando em React para me tornar um especialista. <br>
 Fico feliz com a sua visita ao meu GitHub. Dê uma olhada nos meus projetos! :)
 <br>
 
