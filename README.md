@@ -1,9 +1,16 @@
-Olá, me chamo Matheus! <br>
-Aqui você não vai ver mais do mesmo e nem projetos copia e cola do Youtube. É uma promessa!<br><br>
+Sou desenvolvedor Front-end freelancer e fundador da Horbiti, 
+uma agencia de criação de sites onde atuo sozinho. 
+Programo em JavaScript e React e meu foco são vagas para essas tecnologias. 
+Faço Analise e Desenvolvimento de Sistemas e vejo com bons olhos um estágio na área de desenvolvimento. 
 
-Sou desenvolvedor Front-end com experiência em projetos reais e trabalho como freelancer. <br>
-Programo com foco em JavaScript, e estou me aprofundando em React para me tornar um especialista. <br>
-Fico feliz com a sua visita ao meu GitHub. Dê uma olhada nos meus projetos! :)
+A Horbiti foi criada em 2020 e no início os sites eram feitos apenas em WordPress, Elementor PRO e CSS. 
+Atualmente meus projetos são com linguagens de programação.
+
+Sou apaixonado por desenvolvimento e meus olhos brilham ao ver layouts desafiadores e de alta qualidade. 
+Quero sempre fazer projetos que me desafiem e que me ajudem a evoluir como profissional. 
+Tenho muita intimidade com javascript e me sinto apto a criar qualquer aplicação com a linguagem. 
+Se eu não souber algo, sei como achar. Além de aprender a programar eu aprendi a achar respostas e sou muito bom nisso.
+
 <br>
 
 <h3>Skills:</h3> 
