@@ -22,6 +22,12 @@ Se eu não souber algo, sei como achar. Além de aprender a programar eu aprendi
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
 </div>
+
+<div>
+  <h3>Estudando:</h3>  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
+</div>
 <br>
 
   <h3>Redes Sociais:</h3>
