@@ -1,15 +1,10 @@
-Sou desenvolvedor Front-end freelancer e fundador da Horbiti, 
-uma agencia de criação de sites onde atuo sozinho. 
-Programo em JavaScript e React e meu foco são vagas para essas tecnologias. 
-Faço Analise e Desenvolvimento de Sistemas e vejo com bons olhos um estágio na área de desenvolvimento. 
-
-A Horbiti foi criada em 2020 e no início os sites eram feitos apenas em WordPress, Elementor PRO e CSS. 
-Atualmente meus projetos são com linguagens de programação.
-
-Sou apaixonado por desenvolvimento e meus olhos brilham ao ver layouts desafiadores e de alta qualidade. 
-Quero sempre fazer projetos que me desafiem e que me ajudem a evoluir como profissional. 
-Tenho muita intimidade com javascript e me sinto apto a criar qualquer aplicação com a linguagem. 
-Se eu não souber algo, sei como achar. Além de aprender a programar eu aprendi a achar respostas e sou muito bom nisso.
+Desenvolvedor de sites freelancer com 4 anos de experiência à frente da Horbiti, <br>
+empresa que fundei e onde inicialmente criei soluções em WordPress. 
+Com foco em JavaScript, <br>
+crio interfaces atrativas com React e estou expandindo meus conhecimentos para o back-end com Node.js, 
+Express e MongoDB. <br>
+Busco me tornar um profissional completo, 
+capaz de desenvolver sistemas completos e soluções criativas.
 
 <br>
 
@@ -23,9 +18,11 @@ Se eu não souber algo, sei como achar. Além de aprender a programar eu aprendi
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
 </div>
 
-<div>
+<div style="background-color: white">
   <h3>Estudando:</h3>  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
           
 </div>
 <br>
