@@ -5,9 +5,7 @@ crio interfaces atrativas com React e estou expandindo meus conhecimentos para o
 Express e MongoDB. <br>
 Busco me tornar um profissional completo, 
 capaz de desenvolver sistemas completos e soluções criativas.
-
 <br>
-
 <h3>Skills:</h3> 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
@@ -20,14 +18,8 @@ capaz de desenvolver sistemas completos e soluções criativas.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
-</div>
-
-<div style="background-color: white">
-  <h3>Estudando:</h3>    
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-  
-          
 </div>
 <br>
 
