@@ -28,6 +28,6 @@ capaz de desenvolver sistemas completos e soluções criativas.
     <a href="https://instagram.com/rlxmts" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/matheusw16/" target="_blank" ><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://wa.me/5521991537608"  target="_blank" ><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-    <a href="https://horbiti.vercel.app" target="_blank" ><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a href="https://mcruz.vercel.app" target="_blank" ><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
   
